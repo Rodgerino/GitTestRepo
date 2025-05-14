@@ -1,16 +1,24 @@
 Hello rddgrs!!! 123 
 Goodbye!
 User1 changed
+<<<<<<< HEAD
 some new feature456
 =======
 <<<<<<< HEAD
 some new feature456
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+some new feature456
+>>>>>>> 7a98473 (add changes from user1)
 =======
 some new feature
 Line from user 1 - lesson about rebase
 >>>>>>> 29880cd (add changes from user1)
+<<<<<<< HEAD
 =======
 
 >>>>>>> c15998b (add 123 to some new feature on test)
 >>>>>>> 5c44b85 (add 123 to some new feature on test)
+=======
+>>>>>>> 7a98473 (add changes from user1)
