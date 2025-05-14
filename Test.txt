@@ -1,6 +1,5 @@
 Hello rddgrs!!! 123 
 Goodbye!
 User1 changed
-<<<<<<< HEAD
 some new feature456
 
