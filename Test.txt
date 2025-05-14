@@ -1,5 +1,10 @@
 Hello rddgrs!!! 123 
 Goodbye!
 User1 changed
+<<<<<<< HEAD
 some new feature456
 
+=======
+some new feature
+Line from user 1 - lesson about rebase
+>>>>>>> 29880cdeeaee6c34687d2f0aaed80cc4e61a4e94
