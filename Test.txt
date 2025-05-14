@@ -3,6 +3,7 @@ Goodbye!
 User1 changed
 <<<<<<< HEAD
 some new feature456
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 some new feature456
@@ -22,3 +23,10 @@ Line from user 1 - lesson about rebase
 >>>>>>> 5c44b85 (add 123 to some new feature on test)
 =======
 >>>>>>> 7a98473 (add changes from user1)
+=======
+
+=======
+some new feature
+Line from user 1 - lesson about rebase
+>>>>>>> 29880cdeeaee6c34687d2f0aaed80cc4e61a4e94
+>>>>>>> 95e196751694e50ed875070ebc5876f24f5bf9e3
