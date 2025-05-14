@@ -2,3 +2,4 @@ Hello rddgrs!!! 123
 Goodbye!
 User1 changed
 some new feature
+Line from user 1 - lesson about rebase
